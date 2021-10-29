@@ -1,1 +1,1 @@
-<jsp:include page="/jsp/login.jsp" />
+<jsp:include page="/jsp/home.jsp" />
